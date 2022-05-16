@@ -3,6 +3,10 @@
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me naghiyevtabriz@gmail.com
 
+**Certificates**
+# Datacamp - Data Scientist with Python Track
+# [](https://www.datacamp.com/statement-of-accomplishment/track/4f58b950ce50549bd79745f785a7e8b180cff990)
+
 
 # [Machine Learning Projects](https://tabriz1.github.io/Portfolio_ML/)
 
