@@ -2,18 +2,21 @@
 - 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me naghiyevtabriz@gmail.com
-
-## Certificates
 ---
+## Certificates
 # Datacamp - Data Scientist with Python Track
 # [](https://www.datacamp.com/statement-of-accomplishment/track/4f58b950ce50549bd79745f785a7e8b180cff990)
 ![Accomplishment](/images/certificate1024_1.jpg)
-
-# Projects
 ---
+# Projects
 ## [Machine Learning Projects - Link](https://tabriz1.github.io/Portfolio_ML/)
-
-## Project Overview
+## Overview
 
 - blabla bla bla bla lbla bla 
 - blabllalalalalala
+
+## [Data Science Projects - Link](https://tabriz1.github.io/Portfolio_ML/)
+## Overview
+
+## [Python Projects - Link](https://tabriz1.github.io/Portfolio_ML/)
+## Overview
