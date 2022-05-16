@@ -15,5 +15,5 @@
 
 # Project Overview
 
-blabla bla bla bla lbla bla 
-blabllalalalalala
+- blabla bla bla bla lbla bla 
+- blabllalalalalala
