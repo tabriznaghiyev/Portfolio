@@ -15,3 +15,5 @@
 ## [Data Science Projects - Link](https://tabriz1.github.io/Portfolio_ML/)
 
 ## [Python Projects - Link](https://tabriz1.github.io/Portfolio_ML/)
+
+## [SQL Projects - Link](https://tabriz1.github.io/Portfolio_ML/)
