@@ -11,13 +11,7 @@
 ---
 # Projects
 ## [Machine Learning Projects - Link](https://tabriz1.github.io/Portfolio_ML/)
-## Overview
-
-- blabla bla bla bla lbla bla 
-- blabllalalalalala
 
 ## [Data Science Projects - Link](https://tabriz1.github.io/Portfolio_ML/)
-## Overview
 
 ## [Python Projects - Link](https://tabriz1.github.io/Portfolio_ML/)
-## Overview
