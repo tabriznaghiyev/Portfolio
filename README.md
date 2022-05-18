@@ -4,7 +4,9 @@
 - 📫 How to reach me naghiyevtabriz@gmail.com
 - 📌 [Kaggle Profile](https://www.kaggle.com/tabriznagiyev)
 - 📌 [Hackerrank Profile](https://www.hackerrank.com/tabriznagiyev)
+
 ---
+
 # Projects
 ## [Machine Learning and Data Science Projects - Link](https://tabriz1.github.io/Portfolio_ML/)
 
