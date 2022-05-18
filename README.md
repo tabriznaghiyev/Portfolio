@@ -12,7 +12,7 @@
 ## [SQL Projects - In progress](https://tabriz1.github.io/Portfolio_ML/)
 
 # Learning Process
-* [Github Documents](https://github.com/Tabriz1/Learning-ML)
+## [Github Documents](https://github.com/Tabriz1/Learning-ML)
 
 # Certificates
 ## Datacamp [Data Scientist with Python Track](https://www.datacamp.com/statement-of-accomplishment/track/4f58b950ce50549bd79745f785a7e8b180cff990)
