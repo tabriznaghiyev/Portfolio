@@ -19,4 +19,4 @@
 ## [SQL Projects - Link](https://tabriz1.github.io/Portfolio_ML/)
 
 # Learning Process
-## You can access with this link to my files. [](https://tabriz1.github.io/Learning-ML/)
+* [You can access with this link to my files.](https://tabriz1.github.io/Learning-ML/)
