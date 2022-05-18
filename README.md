@@ -5,7 +5,7 @@
 - 📌 [Kaggle Profile](https://www.kaggle.com/tabriznagiyev)
 - 📌 [Hackerrank Profile](https://www.hackerrank.com/tabriznagiyev)
 
--Detail-oriented and results-driven Information Science student who excels at maintaining large databases, performing data collection and analysis, and conducting detailed reports. Possess great analytical skills, excellent multitasking skills, strong attention to detail, a person who is interested in learning new things about data and significant ability to work in a team. Tabriz is currently looking for a Data Scientist or Machine Learning position with a forward-moving company
+- Detail-oriented and results-driven Information Science student who excels at maintaining large databases, performing data collection and analysis, and conducting detailed reports. Possess great analytical skills, excellent multitasking skills, strong attention to detail, a person who is interested in learning new things about data and significant ability to work in a team. Tabriz is currently looking for a Data Scientist or Machine Learning position with a forward-moving company
 
 ---
 
