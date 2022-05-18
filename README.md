@@ -2,8 +2,8 @@
 - 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently studying M.Sc Computer Science 
 - 📫 How to reach me naghiyevtabriz@gmail.com
-- 📌 [Kaggle](https://www.kaggle.com/tabriznagiyev)
-- 📌 [Hackerrank](https://www.hackerrank.com/tabriznagiyev)
+- 📌 [Kaggle Profile](https://www.kaggle.com/tabriznagiyev)
+- 📌 [Hackerrank Profile](https://www.hackerrank.com/tabriznagiyev)
 
 
 
