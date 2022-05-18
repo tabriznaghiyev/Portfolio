@@ -17,7 +17,7 @@
 ## [Github Documents](https://github.com/Tabriz1/Learning-ML)
 
 # Certificates
-## [Datacamp Data Scientist with Python Track](https://www.datacamp.com/statement-of-accomplishment/track/4f58b950ce50549bd79745f785a7e8b180cff990)
+## [Datacamp - Data Scientist with Python Track](https://www.datacamp.com/statement-of-accomplishment/track/4f58b950ce50549bd79745f785a7e8b180cff990)
 ![Accomplishment](/images/certificate1024_1.jpg)
-## [Coursera Data, Data, Everywhere](https://coursera.org/share/bfd15783e47a0e741f16f676b34803bd)
+## [Coursera - Data, Data, Everywhere](https://coursera.org/share/bfd15783e47a0e741f16f676b34803bd)
 ![Course certificate](/images/Coursera1.jpg)
