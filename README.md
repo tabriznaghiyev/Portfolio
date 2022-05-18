@@ -1,12 +1,10 @@
 - 👋 Hi, I’m @Tabriz1, welcome to my portfolio. Here you can see my improvement
 - 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently studying M.Sc Computer Science 
-- 📫 How to reach me naghiyevtabriz@gmail.com
 - 📌 [Kaggle Profile](https://www.kaggle.com/tabriznagiyev)
 - 📌 [Hackerrank Profile](https://www.hackerrank.com/tabriznagiyev)
 - 📌 [Linkedin Profile](www.linkedin.com/in/tabriznaghiyev)
 
-**Detail-oriented and results-driven Computer Science student who excels at maintaining large databases, performing data collection and analysis, and conducting detailed reports. Possess great analytical skills, excellent multitasking skills, strong attention to detail, a person who is interested in learning new things about data and significant ability to work in a team. Tabriz is currently looking for a Data Scientist or Machine Learning position with a forward-moving company**
+**Detail-oriented and results-driven Computer Science student who excels at maintaining large databases, performing data collection and analysis, and conducting detailed reports. Possess great analytical skills, excellent multitasking skills, strong attention to detail, a person who is interested in learning new things about data and significant ability to work in a team. Currently looking for a Data Scientist or Machine Learning position with a forward-moving companyy**
 
 ---
 
