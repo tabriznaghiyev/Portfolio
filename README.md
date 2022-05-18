@@ -4,9 +4,9 @@
 - 📫 How to reach me naghiyevtabriz@gmail.com
 
 
-## Certificates
-# Datacamp - Data Scientist with Python Track
-# [](https://www.datacamp.com/statement-of-accomplishment/track/4f58b950ce50549bd79745f785a7e8b180cff990)
+# Certificates
+## Datacamp - Data Scientist with Python Track
+## [](https://www.datacamp.com/statement-of-accomplishment/track/4f58b950ce50549bd79745f785a7e8b180cff990)
 ![Accomplishment](/images/certificate1024_1.jpg)
 ---
 # Projects
@@ -17,3 +17,6 @@
 ## [Python Projects - Link](https://tabriz1.github.io/Portfolio_ML/)
 
 ## [SQL Projects - Link](https://tabriz1.github.io/Portfolio_ML/)
+
+# Learning Process
+## You can access with this link to my files. [](https://tabriz1.github.io/Learning-ML/)
