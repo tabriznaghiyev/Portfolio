@@ -18,9 +18,8 @@
 # Projects
 ## [Machine Learning and Data Science Projects - Link](https://tabriz1.github.io/Portfolio_ML/)
 
-## [Python Projects - Link](https://tabriz1.github.io/Portfolio_ML/)
-
-## [SQL Projects - Link](https://tabriz1.github.io/Portfolio_ML/)
+## [Python Projects - In progress](https://tabriz1.github.io/Portfolio_ML/)
+## [SQL Projects - In progress](https://tabriz1.github.io/Portfolio_ML/)
 
 # Learning Process
 * [You can access with this link to my files.](https://github.com/Tabriz1/Learning-ML)
