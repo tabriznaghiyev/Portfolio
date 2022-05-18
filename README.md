@@ -4,7 +4,7 @@
 - 📫 How to reach me naghiyevtabriz@gmail.com
 - 📌 Kaggle : https://www.kaggle.com/tabriznagiyev
 - 📌 Hackerrank: https://www.hackerrank.com/tabriznagiyev
-- 
+
 
 
 # Certificates
