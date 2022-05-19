@@ -11,9 +11,6 @@
 # Projects
 ## [Machine Learning and Data Science Projects - Link](https://tabriz1.github.io/Portfolio_ML/)
 
-## [Python Projects - In progress](https://tabriz1.github.io/Portfolio_ML/)
-## [SQL Projects - In progress](https://tabriz1.github.io/Portfolio_ML/)
-
 # Learning Process
 ## [Github Documents](https://github.com/Tabriz1/Learning-ML)
 
