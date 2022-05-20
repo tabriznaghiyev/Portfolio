@@ -4,7 +4,7 @@
 - 📌 [Hackerrank Profile](https://www.hackerrank.com/tabriznagiyev)
 - 📌 [Linkedin Profile](www.linkedin.com/in/tabriznaghiyev)
 
-**Detail-oriented and results-driven Computer Science student who excels at maintaining large databases, performing data collection and analysis, and conducting detailed reports. Possess great analytical skills, excellent multitasking skills, strong attention to detail, a person who is interested in learning new things about data and significant ability to work in a team. Currently looking for a Data Scientist or Machine Learning position with a forward-moving company**
+**Detail-oriented and results-oriented computer science student who excels at maintaining large databases, performing data collection and analysis, and producing detailed reports. Possess outstanding analytical skills, excellent multitasking skills, attention to detail, a person interested in learning new things about data and a strong ability to work in a team. Currently looking for a Data Scientist or Machine Learning position in a forward-thinking company**
 
 ---
 
